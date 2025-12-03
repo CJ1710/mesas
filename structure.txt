@@ -1,0 +1,13 @@
+MESAS-Project/
+├── main.py                 # Main application file
+├── README.md              # Documentation
+├── requirements.txt       # Python dependencies
+├── setup.py              # Installation script
+├── test_mesas.py         # Unit tests
+├── database.json         # Data storage (auto-created)
+└── modules/              # Core modules
+    ├── __init__.py
+    ├── auth.py           # Authentication system
+    ├── database.py       # Database operations
+    ├── medicine_manager.py # Medicine management
+    └── reports.py        # Report generation

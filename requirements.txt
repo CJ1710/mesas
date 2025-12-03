@@ -1,0 +1,9 @@
+# MESAS - Medicine Expiry and Stock Alert System
+# No external dependencies required - uses Python standard library only
+
+# Python 3.8 or higher recommended
+
+# Optional for future enhancements:
+# Flask>=2.0.0
+# pandas>=1.3.0
+# matplotlib>=3.4.0
